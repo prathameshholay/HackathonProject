@@ -7,7 +7,7 @@ Gkeep is a front-end web application built using React and Material UI, offering
 Tabbed Organization: 
 Gkeep provides three distinct tabs - Notes, Archives, and Trash Bin - enabling users to categorize their notes effortlessly and maintain a clutter-free workspace.
 Note Creation and Archiving, Deleting: 
-Users can easily create new notes by providing a title and description. Existing notes can be deleted and archived seamlessly, allowing for unwanted  and managed  and revisions.
+Users can easily create new notes by providing a title and description. Existing notes can be deleted and archived seamlessly, allowing for managed notes and notes revisions.
 Archiving and Deleting: 
 Gkeep allows users to archive notes, keeping them accessible yet out of the way. Deleted notes are moved to the trash bin, offering a safety net before permanent removal.
 Responsive Design: 
